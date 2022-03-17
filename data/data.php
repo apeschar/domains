@@ -46587,7 +46587,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'AZ.pl sp. z.o.o: https://az.pl',
-			'Submited by Krzysztof Wolski <krzysztof.wolski@home.eu>',
+			'Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>',
 		],
 	],
 	'b-data.io' => [
@@ -52771,7 +52771,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Hakaran group: http://hakaran.cz',
-			'Submited by Arseniy Sokolov <security@hakaran.cz>',
+			'Submitted by Arseniy Sokolov <security@hakaran.cz>',
 		],
 	],
 	'free.hr' => [
@@ -52906,7 +52906,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'home.pl S.A.: https://home.pl',
-			'Submited by Krzysztof Wolski <krzysztof.wolski@home.eu>',
+			'Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>',
 		],
 	],
 	'secaas.hk' => [
@@ -53330,7 +53330,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Internet-Pro, LLP: https://netangels.ru/',
-			'Submited by Vasiliy Sheredeko <piphon@gmail.com>',
+			'Submitted by Vasiliy Sheredeko <piphon@gmail.com>',
 		],
 	],
 	'iopsys.se' => [
@@ -53388,7 +53388,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Jelastic, Inc. : https://jelastic.com/',
-			'Submited by Ihor Kolodyuk <ik@jelastic.com>',
+			'Submitted by Ihor Kolodyuk <ik@jelastic.com>',
 		],
 	],
 	'cloud.interhostsolutions.be' => [
@@ -55848,7 +55848,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Oursky Limited : https://authgear.com/, https://skygear.io/',
-			'Submited by Authgear Team <hello@authgear.com>, Skygear Developer <hello@skygear.io>',
+			'Submitted by Authgear Team <hello@authgear.com>, Skygear Developer <hello@skygear.io>',
 		],
 	],
 	'authgearapps.com' => [
