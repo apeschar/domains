@@ -51356,6 +51356,12 @@ return [
 		'comments' => [
 		],
 	],
+	'campaign.gov.uk' => [
+		'suffix' => 'campaign.gov.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'service.gov.uk' => [
 		'suffix' => 'service.gov.uk',
 		'type' => 'PRIVATE',
