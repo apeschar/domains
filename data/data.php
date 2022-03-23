@@ -37683,7 +37683,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-02-18T15:13:38Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-22T15:14:59Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -38154,7 +38154,7 @@ return [
 		'suffix' => 'audio',
 		'type' => 'ICANN',
 		'comments' => [
-			'audio : 2014-03-20 UNR Corp.',
+			'audio : 2014-03-20 XYZ.COM LLC',
 		],
 	],
 	'auspost' => [
@@ -39015,7 +39015,7 @@ return [
 		'suffix' => 'christmas',
 		'type' => 'ICANN',
 		'comments' => [
-			'christmas : 2013-11-21 UNR Corp.',
+			'christmas : 2013-11-21 XYZ.COM LLC',
 		],
 	],
 	'chrome' => [
@@ -39596,7 +39596,7 @@ return [
 		'suffix' => 'diet',
 		'type' => 'ICANN',
 		'comments' => [
-			'diet : 2014-06-26 UNR Corp.',
+			'diet : 2014-06-26 XYZ.COM LLC',
 		],
 	],
 	'digital' => [
@@ -40170,7 +40170,7 @@ return [
 		'suffix' => 'flowers',
 		'type' => 'ICANN',
 		'comments' => [
-			'flowers : 2014-10-09 UNR Corp.',
+			'flowers : 2014-10-09 XYZ.COM LLC',
 		],
 	],
 	'fly' => [
@@ -40373,7 +40373,7 @@ return [
 		'suffix' => 'game',
 		'type' => 'ICANN',
 		'comments' => [
-			'game : 2015-05-28 UNR Corp.',
+			'game : 2015-05-28 XYZ.COM LLC',
 		],
 	],
 	'games' => [
@@ -40688,7 +40688,7 @@ return [
 		'suffix' => 'guitars',
 		'type' => 'ICANN',
 		'comments' => [
-			'guitars : 2013-11-14 UNR Corp.',
+			'guitars : 2013-11-14 XYZ.COM LLC',
 		],
 	],
 	'guru' => [
@@ -40800,7 +40800,7 @@ return [
 		'suffix' => 'hiphop',
 		'type' => 'ICANN',
 		'comments' => [
-			'hiphop : 2014-03-06 UNR Corp.',
+			'hiphop : 2014-03-06 Dot Hip Hop LLC',
 		],
 	],
 	'hisamitsu' => [
@@ -40912,7 +40912,7 @@ return [
 		'suffix' => 'hosting',
 		'type' => 'ICANN',
 		'comments' => [
-			'hosting : 2014-05-29 UNR Corp.',
+			'hosting : 2014-05-29 XYZ.COM LLC',
 		],
 	],
 	'hot' => [
@@ -41773,7 +41773,7 @@ return [
 		'suffix' => 'lol',
 		'type' => 'ICANN',
 		'comments' => [
-			'lol : 2015-01-30 UNR Corp.',
+			'lol : 2015-01-30 XYZ.COM LLC',
 		],
 	],
 	'london' => [
@@ -42137,7 +42137,7 @@ return [
 		'suffix' => 'mom',
 		'type' => 'ICANN',
 		'comments' => [
-			'mom : 2015-04-16 UNR Corp.',
+			'mom : 2015-04-16 XYZ.COM LLC',
 		],
 	],
 	'monash' => [
@@ -42788,7 +42788,7 @@ return [
 		'suffix' => 'pics',
 		'type' => 'ICANN',
 		'comments' => [
-			'pics : 2013-11-14 UNR Corp.',
+			'pics : 2013-11-14 XYZ.COM LLC',
 		],
 	],
 	'pictet' => [
