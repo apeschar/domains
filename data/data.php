@@ -37683,7 +37683,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-22T15:14:59Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-24T15:15:00Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -40800,7 +40800,7 @@ return [
 		'suffix' => 'hiphop',
 		'type' => 'ICANN',
 		'comments' => [
-			'hiphop : 2014-03-06 Dot Hip Hop LLC',
+			'hiphop : 2014-03-06 Dot Hip Hop, LLC',
 		],
 	],
 	'hisamitsu' => [
@@ -45856,6 +45856,26 @@ return [
 			'Submitted by Przemyslaw Plewa <it-admin@domena.pl>',
 		],
 	],
+	'airkitapps.com' => [
+		'suffix' => 'airkitapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Airkit : https://www.airkit.com/',
+			'Submitted by Grant Cooksey <security@airkit.com>',
+		],
+	],
+	'airkitapps-au.com' => [
+		'suffix' => 'airkitapps-au.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'airkitapps.eu' => [
+		'suffix' => 'airkitapps.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'aivencloud.com' => [
 		'suffix' => 'aivencloud.com',
 		'type' => 'PRIVATE',
@@ -49951,6 +49971,20 @@ return [
 	],
 	'tuleap-partners.com' => [
 		'suffix' => 'tuleap-partners.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'encr.app' => [
+		'suffix' => 'encr.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Encoretivity AB: https://encore.dev',
+			'Submitted by André Eriksson <andre@encore.dev>',
+		],
+	],
+	'encoreapi.com' => [
+		'suffix' => 'encoreapi.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
