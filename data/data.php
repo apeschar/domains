@@ -54250,6 +54250,14 @@ return [
 			'Submitted by Victor Velchev <admin@liquidnetlimited.com>',
 		],
 	],
+	'*.user.localcert.dev' => [
+		'suffix' => '*.user.localcert.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Localcert : https://localcert.dev',
+			'Submitted by Lann Martin <security@localcert.dev>',
+		],
+	],
 	'localzone.xyz' => [
 		'suffix' => 'localzone.xyz',
 		'type' => 'PRIVATE',
