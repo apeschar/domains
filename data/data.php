@@ -37683,7 +37683,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-24T15:15:00Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-27T15:13:38Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -44363,7 +44363,7 @@ return [
 		'suffix' => 'total',
 		'type' => 'ICANN',
 		'comments' => [
-			'total : 2015-08-06 Total SA',
+			'total : 2015-08-06 TOTAL SE',
 		],
 	],
 	'tours' => [
