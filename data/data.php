@@ -57329,28 +57329,16 @@ return [
 			'Submitted by Boris Rybalkin <syncloud@syncloud.it>',
 		],
 	],
-	'diskstation.me' => [
-		'suffix' => 'diskstation.me',
+	'dscloud.biz' => [
+		'suffix' => 'dscloud.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Synology, Inc. : https://www.synology.com/',
 			'Submitted by Rony Weng <ronyweng@synology.com>',
 		],
 	],
-	'dscloud.biz' => [
-		'suffix' => 'dscloud.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dscloud.me' => [
-		'suffix' => 'dscloud.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dscloud.mobi' => [
-		'suffix' => 'dscloud.mobi',
+	'direct.quickconnect.cn' => [
+		'suffix' => 'direct.quickconnect.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57361,32 +57349,20 @@ return [
 		'comments' => [
 		],
 	],
-	'dsmynas.net' => [
-		'suffix' => 'dsmynas.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dsmynas.org' => [
-		'suffix' => 'dsmynas.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'familyds.com' => [
 		'suffix' => 'familyds.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'familyds.net' => [
-		'suffix' => 'familyds.net',
+	'diskstation.me' => [
+		'suffix' => 'diskstation.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'familyds.org' => [
-		'suffix' => 'familyds.org',
+	'dscloud.me' => [
+		'suffix' => 'dscloud.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57405,6 +57381,36 @@ return [
 	],
 	'synology.me' => [
 		'suffix' => 'synology.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dscloud.mobi' => [
+		'suffix' => 'dscloud.mobi',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dsmynas.net' => [
+		'suffix' => 'dsmynas.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'familyds.net' => [
+		'suffix' => 'familyds.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dsmynas.org' => [
+		'suffix' => 'dsmynas.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'familyds.org' => [
+		'suffix' => 'familyds.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
