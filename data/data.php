@@ -61,8 +61,7 @@ return [
 		'suffix' => 'ae',
 		'type' => 'ICANN',
 		'comments' => [
-			'ae : https://en.wikipedia.org/wiki/.ae',
-			'see also: "Domain Name Eligibility Policy" at http://www.aeda.ae/eng/aepolicy.php',
+			'ae : https://tdra.gov.ae/en/aeda/ae-policies',
 		],
 	],
 	'co.ae' => [
@@ -56694,6 +56693,158 @@ return [
 	],
 	'logoip.com' => [
 		'suffix' => 'logoip.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fr-par-1.baremetal.scw.cloud' => [
+		'suffix' => 'fr-par-1.baremetal.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Scaleway : https://www.scaleway.com/',
+			'Submitted by Rémy Léone <rleone@scaleway.com>',
+		],
+	],
+	'fr-par-2.baremetal.scw.cloud' => [
+		'suffix' => 'fr-par-2.baremetal.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nl-ams-1.baremetal.scw.cloud' => [
+		'suffix' => 'nl-ams-1.baremetal.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fnc.fr-par.scw.cloud' => [
+		'suffix' => 'fnc.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'functions.fnc.fr-par.scw.cloud' => [
+		'suffix' => 'functions.fnc.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'k8s.fr-par.scw.cloud' => [
+		'suffix' => 'k8s.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nodes.k8s.fr-par.scw.cloud' => [
+		'suffix' => 'nodes.k8s.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.fr-par.scw.cloud' => [
+		'suffix' => 's3.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.fr-par.scw.cloud' => [
+		'suffix' => 's3-website.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'whm.fr-par.scw.cloud' => [
+		'suffix' => 'whm.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'priv.instances.scw.cloud' => [
+		'suffix' => 'priv.instances.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pub.instances.scw.cloud' => [
+		'suffix' => 'pub.instances.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'k8s.scw.cloud' => [
+		'suffix' => 'k8s.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'k8s.nl-ams.scw.cloud' => [
+		'suffix' => 'k8s.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nodes.k8s.nl-ams.scw.cloud' => [
+		'suffix' => 'nodes.k8s.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.nl-ams.scw.cloud' => [
+		'suffix' => 's3.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.nl-ams.scw.cloud' => [
+		'suffix' => 's3-website.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'whm.nl-ams.scw.cloud' => [
+		'suffix' => 'whm.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'k8s.pl-waw.scw.cloud' => [
+		'suffix' => 'k8s.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nodes.k8s.pl-waw.scw.cloud' => [
+		'suffix' => 'nodes.k8s.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.pl-waw.scw.cloud' => [
+		'suffix' => 's3.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.pl-waw.scw.cloud' => [
+		'suffix' => 's3-website.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scalebook.scw.cloud' => [
+		'suffix' => 'scalebook.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'smartlabeling.scw.cloud' => [
+		'suffix' => 'smartlabeling.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dedibox.fr' => [
+		'suffix' => 'dedibox.fr',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
