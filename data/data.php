@@ -54687,7 +54687,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Microsoft Corporation : http://microsoft.com',
-			'Submitted by Mitch Webster <miwebst@microsoft.com>',
+			'Submitted by Public Suffix List Admin <msftpsladmin@microsoft.com>',
 		],
 	],
 	'azurewebsites.net' => [
@@ -54710,6 +54710,12 @@ return [
 	],
 	'azurestaticapps.net' => [
 		'suffix' => 'azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'1.azurestaticapps.net' => [
+		'suffix' => '1.azurestaticapps.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
