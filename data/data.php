@@ -37682,7 +37682,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-03-27T15:13:38Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-04-14T15:15:34Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -38475,7 +38475,7 @@ return [
 		'suffix' => 'blackfriday',
 		'type' => 'ICANN',
 		'comments' => [
-			'blackfriday : 2014-01-16 UNR Corp.',
+			'blackfriday : 2014-01-16 Registry Services, LLC',
 		],
 	],
 	'blockbuster' => [
@@ -40428,7 +40428,7 @@ return [
 		'suffix' => 'gent',
 		'type' => 'ICANN',
 		'comments' => [
-			'gent : 2014-01-23 COMBELL NV',
+			'gent : 2014-01-23 Easyhost BV',
 		],
 	],
 	'genting' => [
@@ -42759,7 +42759,7 @@ return [
 		'suffix' => 'photo',
 		'type' => 'ICANN',
 		'comments' => [
-			'photo : 2013-11-14 UNR Corp.',
+			'photo : 2013-11-14 Registry Services, LLC',
 		],
 	],
 	'photography' => [
@@ -43326,7 +43326,7 @@ return [
 		'suffix' => 'ruhr',
 		'type' => 'ICANN',
 		'comments' => [
-			'ruhr : 2013-10-02 regiodot GmbH & Co. KG',
+			'ruhr : 2013-10-02 dotSaarland GmbH',
 		],
 	],
 	'run' => [
