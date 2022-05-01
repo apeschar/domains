@@ -37682,7 +37682,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-04-14T15:15:34Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-04-30T15:14:46Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -44145,7 +44145,7 @@ return [
 		'suffix' => 'tattoo',
 		'type' => 'ICANN',
 		'comments' => [
-			'tattoo : 2013-08-30 UNR Corp.',
+			'tattoo : 2013-08-30 Top Level Design, LLC',
 		],
 	],
 	'tax' => [
