@@ -51453,6 +51453,14 @@ return [
 		'comments' => [
 		],
 	],
+	'*.user.fm' => [
+		'suffix' => '*.user.fm',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Fastmail : https://www.fastmail.com/',
+			'Submitted by Marc Bradshaw <marc@fastmailteam.com>',
+		],
+	],
 	'fastvps-server.com' => [
 		'suffix' => 'fastvps-server.com',
 		'type' => 'PRIVATE',
