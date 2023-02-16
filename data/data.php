@@ -37996,7 +37996,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-01-30T09:23:24Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-02-15T15:49:53Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -43318,7 +43318,7 @@ return [
 		'suffix' => 'qpon',
 		'type' => 'ICANN',
 		'comments' => [
-			'qpon : 2013-11-14 dotCOOL, Inc.',
+			'qpon : 2013-11-14 dotQPON LLC',
 		],
 	],
 	'quebec' => [
@@ -55526,6 +55526,12 @@ return [
 	],
 	'2.azurestaticapps.net' => [
 		'suffix' => '2.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'3.azurestaticapps.net' => [
+		'suffix' => '3.azurestaticapps.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
