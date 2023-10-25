@@ -53802,6 +53802,30 @@ return [
 		'comments' => [
 		],
 	],
+	'4.azurestaticapps.net' => [
+		'suffix' => '4.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'5.azurestaticapps.net' => [
+		'suffix' => '5.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'6.azurestaticapps.net' => [
+		'suffix' => '6.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'7.azurestaticapps.net' => [
+		'suffix' => '7.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'centralus.azurestaticapps.net' => [
 		'suffix' => 'centralus.azurestaticapps.net',
 		'type' => 'PRIVATE',
