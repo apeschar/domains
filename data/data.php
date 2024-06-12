@@ -59049,6 +59049,12 @@ return [
 		'comments' => [
 		],
 	],
+	'madethis.site' => [
+		'suffix' => 'madethis.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'srv.us' => [
 		'suffix' => 'srv.us',
 		'type' => 'PRIVATE',
