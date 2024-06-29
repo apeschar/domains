@@ -4954,18 +4954,17 @@ return [
 		'suffix' => 'fi',
 		'type' => 'ICANN',
 		'comments' => [
-			'fi : https://en.wikipedia.org/wiki/.fi',
+			'fi : https://www.iana.org/domains/root/db/fi.html',
 		],
 	],
 	'aland.fi' => [
 		'suffix' => 'aland.fi',
 		'type' => 'ICANN',
 		'comments' => [
-			'aland.fi : https://en.wikipedia.org/wiki/.ax',
+			'aland.fi : https://www.iana.org/domains/root/db/ax.html',
 			'This domain is being phased out in favor of .ax. As there are still many',
 			'domains under aland.fi, we still keep it on the list until aland.fi is',
 			'completely removed.',
-			'TODO: Check for updates (expected to be phased out around Q1/2009)',
 		],
 	],
 	'fj' => [
@@ -49954,14 +49953,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.cprapid.com' => [
-		'suffix' => '*.cprapid.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'cPanel L.L.C. : https://www.cpanel.net/',
-			'Submitted by Dustin Scherer <public.suffix@cpanel.net>',
-		],
-	],
 	'realm.cz' => [
 		'suffix' => 'realm.cz',
 		'type' => 'PRIVATE',
@@ -50363,6 +50354,14 @@ return [
 		'comments' => [
 			'DreamHost : http://www.dreamhost.com/',
 			'Submitted by Andrew Farmer <andrew.farmer@dreamhost.com>',
+		],
+	],
+	'durumis.com' => [
+		'suffix' => 'durumis.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Dreamyoungs, Inc. : https://durumis.com',
+			'Submitted by Infra Team <infra@durumis.com>',
 		],
 	],
 	'mydrobo.com' => [
@@ -59212,26 +59211,6 @@ return [
 		'comments' => [
 		],
 	],
-	'pleskns.com' => [
-		'suffix' => 'pleskns.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Plesk : https://www.plesk.com/',
-			'Submitted by Anton Akhtyamov <program-managers@plesk.com>',
-		],
-	],
-	'pdns.page' => [
-		'suffix' => 'pdns.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'plesk.page' => [
-		'suffix' => 'plesk.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'pley.games' => [
 		'suffix' => 'pley.games',
 		'type' => 'PRIVATE',
@@ -59438,14 +59417,6 @@ return [
 		'comments' => [
 			'Redgate Software: https://red-gate.com',
 			'Submitted by Andrew Farries <andrew.farries@red-gate.com>',
-		],
-	],
-	'instantcloud.cn' => [
-		'suffix' => 'instantcloud.cn',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Redstar Consultants : https://www.redstarconsultants.com/',
-			'Submitted by Jons Slemmer <jons@redstarconsultants.com>',
 		],
 	],
 	'ras.ru' => [
@@ -62266,12 +62237,36 @@ return [
 		'comments' => [
 		],
 	],
-	'wp2.host' => [
-		'suffix' => 'wp2.host',
+	'cprapid.com' => [
+		'suffix' => 'cprapid.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'WebPros International, LLC : https://webpros.com/',
 			'Submitted by Nicolas Rochelemagne <public.suffix@webpros.com>',
+		],
+	],
+	'pleskns.com' => [
+		'suffix' => 'pleskns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wp2.host' => [
+		'suffix' => 'wp2.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pdns.page' => [
+		'suffix' => 'pdns.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'plesk.page' => [
+		'suffix' => 'plesk.page',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'wpsquared.site' => [
