@@ -44124,14 +44124,6 @@ return [
 		'comments' => [
 		],
 	],
-	'graphox.us' => [
-		'suffix' => 'graphox.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Aaron Marais\' Gitlab pages: https://lab.aaronleem.co.za',
-			'Submitted by Aaron Marais <its_me@aaronleem.co.za>',
-		],
-	],
 	'*.devcdnaccesso.com' => [
 		'suffix' => '*.devcdnaccesso.com',
 		'type' => 'PRIVATE',
@@ -48805,14 +48797,6 @@ return [
 		'comments' => [
 			'b-data GmbH : https://www.b-data.io',
 			'Submitted by Olivier Benz <olivier.benz@b-data.ch>',
-		],
-	],
-	'backplaneapp.io' => [
-		'suffix' => 'backplaneapp.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'backplane : https://www.backplane.io',
-			'Submitted by Anthony Voutas <anthony@backplane.io>',
 		],
 	],
 	'balena-devices.com' => [
@@ -57651,14 +57635,6 @@ return [
 			'Submitted by Robert Böttinger <r@minion.systems>',
 		],
 	],
-	'mintere.site' => [
-		'suffix' => 'mintere.site',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Mintere : https://mintere.com/',
-			'Submitted by Ben Aubin <security@mintere.com>',
-		],
-	],
 	'forte.id' => [
 		'suffix' => 'forte.id',
 		'type' => 'PRIVATE',
@@ -57673,14 +57649,6 @@ return [
 		'comments' => [
 			'MODX Systems LLC : https://modx.com',
 			'Submitted by Elizabeth Southwell <elizabeth@modx.com>',
-		],
-	],
-	'mozilla-iot.org' => [
-		'suffix' => 'mozilla-iot.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Mozilla Corporation : https://mozilla.com',
-			'Submitted by Ben Francis <bfrancis@mozilla.com>',
 		],
 	],
 	'bmoattachments.org' => [
@@ -58710,14 +58678,6 @@ return [
 			'Submitted by Konstantin Nosov <Nosov@nodeart.io>',
 		],
 	],
-	'pcloud.host' => [
-		'suffix' => 'pcloud.host',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Nucleos Inc. : https://nucleos.com',
-			'Submitted by Piotr Zduniak <piotr@nucleos.com>',
-		],
-	],
 	'nyc.mn' => [
 		'suffix' => 'nyc.mn',
 		'type' => 'PRIVATE',
@@ -59057,14 +59017,6 @@ return [
 		'comments' => [
 			'Pagefog : https://pagefog.com/',
 			'Submitted by Derek Myers <derek@pagefog.com>',
-		],
-	],
-	'pagefrontapp.com' => [
-		'suffix' => 'pagefrontapp.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Pagefront : https://www.pagefronthq.com/',
-			'Submitted by Jason Kriss <jason@pagefronthq.com>',
 		],
 	],
 	'pagexl.com' => [
@@ -60698,20 +60650,6 @@ return [
 		'comments' => [
 			'Sheezy.Art : https://sheezy.art',
 			'Submitted by Nyoom <admin@sheezy.art>',
-		],
-	],
-	'shiftcrypto.dev' => [
-		'suffix' => 'shiftcrypto.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Shift Crypto AG : https://shiftcrypto.ch',
-			'Submitted by alex <alex@shiftcrypto.ch>',
-		],
-	],
-	'shiftcrypto.io' => [
-		'suffix' => 'shiftcrypto.io',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'shiftedit.io' => [
