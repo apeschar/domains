@@ -48598,25 +48598,11 @@ return [
 		'comments' => [
 		],
 	],
-	't3l3p0rt.net' => [
-		'suffix' => 't3l3p0rt.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'concludes Amazon',
-			'Amune : https://amune.org/',
-			'Submitted by Team Amune <cert@amune.org>',
-		],
-	],
-	'tele.amune.org' => [
-		'suffix' => 'tele.amune.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'concludes Amazon',
 			'Apigee : https://apigee.com/',
 			'Submitted by Apigee Security Team <security@apigee.com>',
 		],
@@ -50467,13 +50453,6 @@ return [
 		'comments' => [
 			'Bip : https://bip.sh',
 			'Submitted by Joel Kennedy <joel@bip.sh>',
-		],
-	],
-	'bitbridge.net' => [
-		'suffix' => 'bitbridge.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'bitbridge.net : Submitted by Craig Welch, abeliidev@gmail.com',
 		],
 	],
 	'dy.fi' => [
@@ -60940,26 +60919,6 @@ return [
 		'comments' => [
 		],
 	],
-	'static.land' => [
-		'suffix' => 'static.land',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'staticland : https://static.land',
-			'Submitted by Seth Vincent <sethvincent@gmail.com>',
-		],
-	],
-	'dev.static.land' => [
-		'suffix' => 'dev.static.land',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'sites.static.land' => [
-		'suffix' => 'sites.static.land',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'storebase.store' => [
 		'suffix' => 'storebase.store',
 		'type' => 'PRIVATE',
@@ -62260,26 +62219,6 @@ return [
 		'comments' => [
 			'WebWaddle Ltd: https://webwaddle.com/',
 			'Submitted by Merlin Glander <hostmaster@webwaddle.com>',
-		],
-	],
-	'wedeploy.io' => [
-		'suffix' => 'wedeploy.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'WeDeploy by Liferay, Inc. : https://www.wedeploy.com',
-			'Submitted by Henrique Vicente <security@wedeploy.com>',
-		],
-	],
-	'wedeploy.me' => [
-		'suffix' => 'wedeploy.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wedeploy.sh' => [
-		'suffix' => 'wedeploy.sh',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'remotewd.com' => [
