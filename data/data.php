@@ -44138,14 +44138,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.devcdnaccesso.com' => [
-		'suffix' => '*.devcdnaccesso.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'accesso Technology Group, plc. : https://accesso.com/',
-			'Submitted by accesso Team <accessoecommerce@accesso.com>',
-		],
-	],
 	'*.on-acorn.io' => [
 		'suffix' => '*.on-acorn.io',
 		'type' => 'PRIVATE',
@@ -60826,6 +60818,14 @@ return [
 		'comments' => [
 			'Snowplow Analytics : https://snowplowanalytics.com/',
 			'Submitted by Ian Streeter <ian@snowplowanalytics.com>',
+		],
+	],
+	'mafelo.net' => [
+		'suffix' => 'mafelo.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Software Consulting Michal Zalewski : https://www.mafelo.com',
+			'Submitted by Michal Zalewski <security@mafelo.com>',
 		],
 	],
 	'srht.site' => [
