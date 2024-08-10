@@ -56015,6 +56015,39 @@ return [
 			'Submitted by Vasiliy Sheredeko <piphon@gmail.com>',
 		],
 	],
+	'apps-1and1.com' => [
+		'suffix' => 'apps-1and1.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'IONOS SE : https://www.ionos.com/,',
+			'IONOS Group SE: https://www.ionos-group.com/',
+			'submitted by Henrik Willert <security@ionos.com>',
+		],
+	],
+	'live-website.com' => [
+		'suffix' => 'live-website.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'apps-1and1.net' => [
+		'suffix' => 'apps-1and1.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'websitebuilder.online' => [
+		'suffix' => 'websitebuilder.online',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'app-ionos.space' => [
+		'suffix' => 'app-ionos.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'iopsys.se' => [
 		'suffix' => 'iopsys.se',
 		'type' => 'PRIVATE',
@@ -56795,6 +56828,14 @@ return [
 			'Submitted by Lelux Admin <publisuffix@lelux.site>',
 		],
 	],
+	'libp2p.direct' => [
+		'suffix' => 'libp2p.direct',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'libp2p project : https://libp2p.io',
+			'Submitted by Interplanetary Shipyard <psl@ipshipyard.com>',
+		],
+	],
 	'runcontainers.dev' => [
 		'suffix' => 'runcontainers.dev',
 		'type' => 'PRIVATE',
@@ -56893,6 +56934,20 @@ return [
 		'comments' => [
 			'LiquidNet Ltd : http://www.liquidnetlimited.com/',
 			'Submitted by Victor Velchev <admin@liquidnetlimited.com>',
+		],
+	],
+	'filegear-sg.me' => [
+		'suffix' => 'filegear-sg.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Listen53 : https://www.l53.net',
+			'Submitted by Gerry Keh <biz@l53.net>',
+		],
+	],
+	'ggff.net' => [
+		'suffix' => 'ggff.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.user.localcert.dev' => [
@@ -57518,6 +57573,14 @@ return [
 		'suffix' => 'servicebus.windows.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'sn.mynetname.net' => [
+		'suffix' => 'sn.mynetname.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MikroTik: https://mikrotik.com',
+			'Submitted by MikroTik SysAdmin Team <support@mikrotik.com>',
 		],
 	],
 	'csx.cc' => [
@@ -62261,6 +62324,20 @@ return [
 	],
 	'wmflabs.org' => [
 		'suffix' => 'wmflabs.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wdh.app' => [
+		'suffix' => 'wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'William Harrison : https://william.net.au',
+			'Submitted by William Harrison <domains@wdh.gg>',
+		],
+	],
+	'preview.wdh.app' => [
+		'suffix' => 'preview.wdh.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
