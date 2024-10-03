@@ -60711,26 +60711,6 @@ return [
 			'Submitted by Skylar Challand <support@siteleaf.com>',
 		],
 	],
-	'bounty-full.com' => [
-		'suffix' => 'bounty-full.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Skyhat : http://www.skyhat.io',
-			'Submitted by Shante Adam <shante@skyhat.io>',
-		],
-	],
-	'alpha.bounty-full.com' => [
-		'suffix' => 'alpha.bounty-full.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'beta.bounty-full.com' => [
-		'suffix' => 'beta.bounty-full.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'small-web.org' => [
 		'suffix' => 'small-web.org',
 		'type' => 'PRIVATE',
