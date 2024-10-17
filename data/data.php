@@ -50176,14 +50176,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ddns5.com' => [
-		'suffix' => 'ddns5.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'DDNS5 : https://ddns5.com',
-			'Submitted by Cameron Elliott <cameron@cameronelliott.com>',
-		],
-	],
 	'ddnss.de' => [
 		'suffix' => 'ddnss.de',
 		'type' => 'PRIVATE',
@@ -61404,18 +61396,12 @@ return [
 			'Submitted by Bjoern Henke <dev-server@taifun-software.de>',
 		],
 	],
-	'beta.tailscale.net' => [
-		'suffix' => 'beta.tailscale.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Tailscale Inc. : https://www.tailscale.com',
-			'Submitted by David Anderson <danderson@tailscale.com>',
-		],
-	],
 	'ts.net' => [
 		'suffix' => 'ts.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Tailscale Inc. : https://www.tailscale.com',
+			'Submitted by David Anderson <infra+public-suffix-list@tailscale.com>',
 		],
 	],
 	'*.c.ts.net' => [
@@ -61621,18 +61607,12 @@ return [
 		'comments' => [
 		],
 	],
-	'bloxcms.com' => [
-		'suffix' => 'bloxcms.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'TownNews.com : http://www.townnews.com',
-			'Submitted by Dustin Ward <dward@townnews.com>',
-		],
-	],
 	'townnews-staging.com' => [
 		'suffix' => 'townnews-staging.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'TownNews.com : http://www.townnews.com',
+			'Submitted by Dustin Ward <dward@townnews.com>',
 		],
 	],
 	'12hp.at' => [
