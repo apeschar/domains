@@ -56052,8 +56052,8 @@ return [
 		'suffix' => 'is-a.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'is-a.dev : https://www.is-a.dev',
-			'Submitted by William Harrison <admin@m.is-a.dev>',
+			'is-a.dev : https://is-a.dev',
+			'Submitted by William Harrison <psl@is-a.dev>',
 		],
 	],
 	'iservschule.de' => [
