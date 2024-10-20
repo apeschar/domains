@@ -849,6 +849,18 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.ao' => [
+		'suffix' => 'edu.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.ao' => [
+		'suffix' => 'gov.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'gv.ao' => [
 		'suffix' => 'gv.ao',
 		'type' => 'ICANN',
@@ -857,6 +869,12 @@ return [
 	],
 	'og.ao' => [
 		'suffix' => 'og.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ao' => [
+		'suffix' => 'org.ao',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30235,6 +30253,12 @@ return [
 	],
 	'biz.ss' => [
 		'suffix' => 'biz.ss',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.ss' => [
+		'suffix' => 'co.ss',
 		'type' => 'ICANN',
 		'comments' => [
 		],
