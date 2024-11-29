@@ -35107,7 +35107,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-31T15:17:42Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-11-27T15:18:01Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43213,7 +43213,7 @@ return [
 		'suffix' => '在线',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--3ds443g : TLD REGISTRY LIMITED OY',
+			'xn--3ds443g : Beijing TLD Registry Technology Limited',
 			'https://www.iana.org/domains/root/db/xn--3ds443g.html',
 		],
 	],
@@ -57288,14 +57288,6 @@ return [
 		'suffix' => 'mcpre.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'mcpe.me' => [
-		'suffix' => 'mcpe.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'mcpe.me : https://mcpe.me',
-			'Submitted by Noa Heyl <hi@noa.dev>',
 		],
 	],
 	'mediatech.by' => [
