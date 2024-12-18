@@ -53882,12 +53882,6 @@ return [
 		'comments' => [
 		],
 	],
-	'lab.ms' => [
-		'suffix' => 'lab.ms',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cdn-edges.net' => [
 		'suffix' => 'cdn-edges.net',
 		'type' => 'PRIVATE',
