@@ -50054,14 +50054,6 @@ return [
 			'Submitted by Andrew Cady <public-suffix-list@cryptonomic.net>',
 		],
 	],
-	'curv.dev' => [
-		'suffix' => 'curv.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Curv UG : https://curv-labs.de/',
-			'Submitted by Marvin Wiesner <Marvin@curv-labs.de>',
-		],
-	],
 	'cfolks.pl' => [
 		'suffix' => 'cfolks.pl',
 		'type' => 'PRIVATE',
@@ -50356,20 +50348,6 @@ return [
 			'Submitted by Edward Hsing <contact@digitalplat.org>',
 		],
 	],
-	'rss.my.id' => [
-		'suffix' => 'rss.my.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Diher Solutions : https://diher.solutions',
-			'Submitted by Didi Hermawan <mail@diher.solutions>',
-		],
-	],
-	'diher.solutions' => [
-		'suffix' => 'diher.solutions',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'discordsays.com' => [
 		'suffix' => 'discordsays.com',
 		'type' => 'PRIVATE',
@@ -50452,20 +50430,6 @@ return [
 		'comments' => [
 			'Drobo : http://www.drobo.com/',
 			'Submitted by Ricardo Padilha <rpadilha@drobo.com>',
-		],
-	],
-	'drud.io' => [
-		'suffix' => 'drud.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Drud Holdings, LLC. : https://www.drud.com/',
-			'Submitted by Kevin Bridges <kevin@drud.com>',
-		],
-	],
-	'drud.us' => [
-		'suffix' => 'drud.us',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'duckdns.org' => [
@@ -55519,6 +55483,44 @@ return [
 			'Submitted by Vasiliy Sheredeko <piphon@gmail.com>',
 		],
 	],
+	'botdash.app' => [
+		'suffix' => 'botdash.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Inventor Services : https://inventor.gg/',
+			'Submitted by Inventor Team <psl@inventor.gg>',
+		],
+	],
+	'botdash.dev' => [
+		'suffix' => 'botdash.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.gg' => [
+		'suffix' => 'botdash.gg',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.net' => [
+		'suffix' => 'botdash.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botda.sh' => [
+		'suffix' => 'botda.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.xyz' => [
+		'suffix' => 'botdash.xyz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'apps-1and1.com' => [
 		'suffix' => 'apps-1and1.com',
 		'type' => 'PRIVATE',
@@ -58710,18 +58712,12 @@ return [
 		'comments' => [
 		],
 	],
-	'platter-app.com' => [
-		'suffix' => 'platter-app.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Platter: https://platter.dev',
-			'Submitted by Patrick Flor <patrick@platter.dev>',
-		],
-	],
 	'platter-app.dev' => [
 		'suffix' => 'platter-app.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Platter : https://platter.dev',
+			'Submitted by Patrick Flor <patrick@platter.dev>',
 		],
 	],
 	'platterp.us' => [
@@ -60431,14 +60427,6 @@ return [
 		'comments' => [
 		],
 	],
-	'spacekit.io' => [
-		'suffix' => 'spacekit.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'SpaceKit : https://www.spacekit.io/',
-			'Submitted by Reza Akhavan <spacekit.io@gmail.com>',
-		],
-	],
 	'ind.mom' => [
 		'suffix' => 'ind.mom',
 		'type' => 'PRIVATE',
@@ -61844,7 +61832,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'William Harrison : https://wharrison.com.au',
-			'Submitted by William Harrison <william@harrison.id.au>',
+			'Submitted by William Harrison <psl@wharrison.com.au>',
 		],
 	],
 	'panel.gg' => [
