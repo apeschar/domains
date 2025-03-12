@@ -61685,7 +61685,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Typeform : https://www.typeform.com',
-			'Submitted by Sergi Ferriz <sergi.ferriz@typeform.com>',
+			'Submitted by Typeform <ops@typeform.com>',
 		],
 	],
 	'*.uberspace.de' => [
