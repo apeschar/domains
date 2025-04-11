@@ -44754,7 +44754,7 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: cb38c251-c93d-4cda-81ec-e72c4f0fdb72',
+			'Reference: eb4652f0-20f0-43f5-b323-e6cc6ae02ad7',
 		],
 	],
 	'auth.ap-east-1.amazoncognito.com' => [
@@ -44813,6 +44813,12 @@ return [
 	],
 	'auth.ap-southeast-4.amazoncognito.com' => [
 		'suffix' => 'auth.ap-southeast-4.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-5.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-5.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44921,6 +44927,12 @@ return [
 	],
 	'auth-fips.us-east-2.amazoncognito.com' => [
 		'suffix' => 'auth-fips.us-east-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-gov-east-1.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-gov-east-1.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53643,6 +53655,14 @@ return [
 		'comments' => [
 			'FH Muenster : https://www.fh-muenster.de',
 			'Submitted by Robin Naundorf <r.naundorf@fh-muenster.de>',
+		],
+	],
+	'figma.site' => [
+		'suffix' => 'figma.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Figma : https://www.figma.com',
+			'Submitted by Nick Frost <psl@figma.com>',
 		],
 	],
 	'filegear.me' => [
