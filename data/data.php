@@ -979,6 +979,12 @@ return [
 		'comments' => [
 		],
 	],
+	'seg.ar' => [
+		'suffix' => 'seg.ar',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'senasa.ar' => [
 		'suffix' => 'senasa.ar',
 		'type' => 'ICANN',
@@ -50119,18 +50125,12 @@ return [
 		'comments' => [
 		],
 	],
-	'devinapps.com' => [
-		'suffix' => 'devinapps.com',
+	'*.devinapps.com' => [
+		'suffix' => '*.devinapps.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Cognition AI, Inc. : https://cognition.ai',
 			'Submitted by Philip Papurt <domains@cognition.ai>',
-		],
-	],
-	'staging.devinapps.com' => [
-		'suffix' => 'staging.devinapps.com',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'webhosting.be' => [
@@ -50155,12 +50155,24 @@ return [
 			'Submitted by Contentful Developer Experience Team <prd-ecosystem-dx@contentful.com>',
 		],
 	],
-	'convex.site' => [
-		'suffix' => 'convex.site',
+	'convex.app' => [
+		'suffix' => 'convex.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Convex : https://convex.dev/',
 			'Submitted by James Cowling <security@convex.dev>',
+		],
+	],
+	'convex.cloud' => [
+		'suffix' => 'convex.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'convex.site' => [
+		'suffix' => 'convex.site',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ac.ru' => [
@@ -53737,6 +53749,14 @@ return [
 		'suffix' => 'id.forgerock.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'e2b.app' => [
+		'suffix' => 'e2b.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FoundryLabs, Inc : https://e2b.dev/',
+			'Submitted by Jiri Sveceny <security@e2b.dev>',
 		],
 	],
 	'framer.ai' => [
