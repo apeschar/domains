@@ -35447,7 +35447,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-09T15:20:49Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36993,7 +36993,7 @@ return [
 		'suffix' => 'click',
 		'type' => 'ICANN',
 		'comments' => [
-			'click : Internet Naming Company LLC',
+			'click : Waterford Limited',
 			'https://www.iana.org/domains/root/db/click.html',
 		],
 	],
