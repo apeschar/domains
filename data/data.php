@@ -57221,7 +57221,19 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Laravel Holdings, Inc. : https://laravel.com',
-			'Submitted by André Valentin <security@laravel.com>',
+			'Submitted by André Valentin & James Brooks <security@laravel.com>',
+		],
+	],
+	'on-forge.com' => [
+		'suffix' => 'on-forge.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on-vapor.com' => [
+		'suffix' => 'on-vapor.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'git-repos.de' => [
@@ -60134,6 +60146,14 @@ return [
 		'suffix' => 'site.rb-hosting.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'up.railway.app' => [
+		'suffix' => 'up.railway.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Railway Corporation : https://railway.com',
+			'Submitted by Phineas Walton <dns@railway.com>',
 		],
 	],
 	'*.on-rancher.cloud' => [
