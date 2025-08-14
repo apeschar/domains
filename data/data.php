@@ -51197,6 +51197,12 @@ return [
 		'comments' => [
 		],
 	],
+	'*.icp.net' => [
+		'suffix' => '*.icp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'caffeine.site' => [
 		'suffix' => 'caffeine.site',
 		'type' => 'PRIVATE',
@@ -60056,6 +60062,20 @@ return [
 			'Submitted by Vasyl Tsalko <vtsalko@qualityunit.com>',
 		],
 	],
+	'*.qualyhqpartner.com' => [
+		'suffix' => '*.qualyhqpartner.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Qualy : https://qualyhq.com',
+			'Submitted by Raphael Arias <security@qualyhq.com>',
+		],
+	],
+	'*.qualyhqportal.com' => [
+		'suffix' => '*.qualyhqportal.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'qbuser.com' => [
 		'suffix' => 'qbuser.com',
 		'type' => 'PRIVATE',
@@ -62286,6 +62306,20 @@ return [
 			'Submitted by Bjoern Henke <dev-server@taifun-software.de>',
 		],
 	],
+	'erp.dev' => [
+		'suffix' => 'erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tailor Inc. : https://www.tailor.tech',
+			'Submitted by Ryuzo Yamamoto <psl-maintainers@tailor.tech>',
+		],
+	],
+	'web.erp.dev' => [
+		'suffix' => 'web.erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ts.net' => [
 		'suffix' => 'ts.net',
 		'type' => 'PRIVATE',
@@ -63508,6 +63542,14 @@ return [
 		'comments' => [
 			'Zone.ID: https://zone.id',
 			'Submitted by Gx1.org <security@gx1.org>',
+		],
+	],
+	'zabc.net' => [
+		'suffix' => 'zabc.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ZoneABC : https://zoneabc.net',
+			'Submitted by ZoneABC Team <support@zoneabc.net>',
 		],
 	],
 ];
