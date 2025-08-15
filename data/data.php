@@ -4496,6 +4496,13 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cz : https://www.iana.org/domains/root/db/cz.html',
+			'Confirmed by registry <tech@nic.cz> 2025-08-06',
+		],
+	],
+	'gov.cz' => [
+		'suffix' => 'gov.cz',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'de' => [
