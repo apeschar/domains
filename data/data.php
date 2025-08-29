@@ -35472,7 +35472,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41404,14 +41404,6 @@ return [
 		'comments' => [
 			'red : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/red.html',
-		],
-	],
-	'redstone' => [
-		'suffix' => 'redstone',
-		'type' => 'ICANN',
-		'comments' => [
-			'redstone : Redstone Haute Couture Co., Ltd.',
-			'https://www.iana.org/domains/root/db/redstone.html',
 		],
 	],
 	'redumbrella' => [
