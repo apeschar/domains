@@ -50046,6 +50046,18 @@ return [
 		'comments' => [
 		],
 	],
+	'canva-hosted-embed.com' => [
+		'suffix' => 'canva-hosted-embed.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canvacode.com' => [
+		'suffix' => 'canvacode.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'rice-labs.com' => [
 		'suffix' => 'rice-labs.com',
 		'type' => 'PRIVATE',
@@ -51218,6 +51230,12 @@ return [
 	],
 	'caffeine.site' => [
 		'suffix' => 'caffeine.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'caffeine.xyz' => [
+		'suffix' => 'caffeine.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
