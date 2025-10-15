@@ -57102,14 +57102,20 @@ return [
 		'comments' => [
 		],
 	],
-	'jote-dr-lt1.com' => [
-		'suffix' => 'jote-dr-lt1.com',
+	'eu1-plenit.com' => [
+		'suffix' => 'eu1-plenit.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'jote-rd-lt1.com' => [
-		'suffix' => 'jote-rd-lt1.com',
+	'la1-plenit.com' => [
+		'suffix' => 'la1-plenit.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us1-plenit.com' => [
+		'suffix' => 'us1-plenit.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
