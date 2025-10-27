@@ -1529,11 +1529,96 @@ return [
 		'comments' => [
 		],
 	],
-	'*.bd' => [
-		'suffix' => '*.bd',
+	'bd' => [
+		'suffix' => 'bd',
 		'type' => 'ICANN',
 		'comments' => [
 			'bd : https://www.iana.org/domains/root/db/bd.html',
+			'Confirmed by registry <dgm.domain@btcl.gov.bd>',
+		],
+	],
+	'ac.bd' => [
+		'suffix' => 'ac.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ai.bd' => [
+		'suffix' => 'ai.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.bd' => [
+		'suffix' => 'co.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.bd' => [
+		'suffix' => 'com.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.bd' => [
+		'suffix' => 'edu.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.bd' => [
+		'suffix' => 'gov.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'id.bd' => [
+		'suffix' => 'id.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.bd' => [
+		'suffix' => 'info.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'it.bd' => [
+		'suffix' => 'it.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.bd' => [
+		'suffix' => 'mil.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bd' => [
+		'suffix' => 'net.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.bd' => [
+		'suffix' => 'org.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sch.bd' => [
+		'suffix' => 'sch.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tv.bd' => [
+		'suffix' => 'tv.bd',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'be' => [
