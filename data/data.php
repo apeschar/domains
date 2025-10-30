@@ -50688,12 +50688,18 @@ return [
 			'Submitted by Kedarnath Waikar <security@cloudera.com>',
 		],
 	],
-	'cf-ipfs.com' => [
-		'suffix' => 'cf-ipfs.com',
+	'cloudflare.app' => [
+		'suffix' => 'cloudflare.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Cloudflare, Inc. : https://www.cloudflare.com/',
 			'Submitted by Cloudflare Team <publicsuffixlist@cloudflare.com>',
+		],
+	],
+	'cf-ipfs.com' => [
+		'suffix' => 'cf-ipfs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'cloudflare-ipfs.com' => [
@@ -63294,6 +63300,14 @@ return [
 		'comments' => [
 			'Walrus : https://walrus.xyz',
 			'Submitted by Max Spector <info@walrus.xyz>',
+		],
+	],
+	'wasmer.app' => [
+		'suffix' => 'wasmer.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Wasmer: https://wasmer.io',
+			'Submitted by Lorentz Kinde <security@wasmer.io>',
 		],
 	],
 	'webflow.io' => [
