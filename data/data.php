@@ -6967,6 +6967,12 @@ return [
 		'comments' => [
 		],
 	],
+	'bank.in' => [
+		'suffix' => 'bank.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'bihar.in' => [
 		'suffix' => 'bihar.in',
 		'type' => 'ICANN',
@@ -7041,6 +7047,12 @@ return [
 	],
 	'er.in' => [
 		'suffix' => 'er.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fin.in' => [
+		'suffix' => 'fin.in',
 		'type' => 'ICANN',
 		'comments' => [
 		],
