@@ -6935,6 +6935,7 @@ return [
 			'see also: https://registry.in/policies',
 			'Please note, that nic.in is not an official eTLD, but used by most',
 			'government institutions.',
+			'Confirmed by Gaurav Kansal <gaurav.kansal@nic.in> 2025-11-06',
 		],
 	],
 	'5g.in' => [
