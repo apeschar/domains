@@ -55083,22 +55083,16 @@ return [
 			'Submitted by Anton Emelyanov <anton@flutterflow.io>',
 		],
 	],
-	'fly.dev' => [
-		'suffix' => 'fly.dev',
+	'sprites.app' => [
+		'suffix' => 'sprites.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'fly.io : https://fly.io',
-			'Submitted by Kurt Mackey <kurt@fly.io>',
+			'Submitted by Kurt Mackey <ops@fly.io>',
 		],
 	],
-	'shw.io' => [
-		'suffix' => 'shw.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'edgeapp.net' => [
-		'suffix' => 'edgeapp.net',
+	'fly.dev' => [
+		'suffix' => 'fly.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58552,6 +58546,20 @@ return [
 		'comments' => [
 			'Magento Commerce',
 			'Submitted by Damien Tournoud <dtournoud@magento.cloud>',
+		],
+	],
+	'magicpatterns.app' => [
+		'suffix' => 'magicpatterns.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Magic Patterns : https://www.magicpatterns.com',
+			'Submitted by Teddy Ni <security@magicpatterns.com>',
+		],
+	],
+	'magicpatternsapp.com' => [
+		'suffix' => 'magicpatternsapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'hb.cldmail.ru' => [
