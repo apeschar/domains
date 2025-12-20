@@ -50031,6 +50031,98 @@ return [
 			'Submitted by Alexander Selivanov <alex@apphud.com>',
 		],
 	],
+	'int.apple' => [
+		'suffix' => 'int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Apple : https://www.apple.com',
+			'Submitted by Apple DNS <dnscontact@apple.com>',
+		],
+	],
+	'*.cloud.int.apple' => [
+		'suffix' => '*.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.r.cloud.int.apple' => [
+		'suffix' => '*.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-north-1.r.cloud.int.apple' => [
+		'suffix' => '*.ap-north-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-1.r.cloud.int.apple' => [
+		'suffix' => '*.ap-south-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-2.r.cloud.int.apple' => [
+		'suffix' => '*.ap-south-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-central-1.r.cloud.int.apple' => [
+		'suffix' => '*.eu-central-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-north-1.r.cloud.int.apple' => [
+		'suffix' => '*.eu-north-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-central-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-central-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-central-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-central-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-east-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-east-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-3.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-3.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'appspacehosted.com' => [
 		'suffix' => 'appspacehosted.com',
 		'type' => 'PRIVATE',
@@ -50059,6 +50151,12 @@ return [
 		'comments' => [
 			'Appwrite : https://appwrite.io',
 			'Submitted by Steven Nguyen <security@appwrite.io>',
+		],
+	],
+	'appwrite.network' => [
+		'suffix' => 'appwrite.network',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.appwrite.run' => [
@@ -55097,20 +55195,6 @@ return [
 		'comments' => [
 		],
 	],
-	'forgeblocks.com' => [
-		'suffix' => 'forgeblocks.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Forgerock : https://www.forgerock.com',
-			'Submitted by Roderick Parr <roderick.parr@forgerock.com>',
-		],
-	],
-	'id.forgerock.io' => [
-		'suffix' => 'id.forgerock.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'e2b.app' => [
 		'suffix' => 'e2b.app',
 		'type' => 'PRIVATE',
@@ -56849,6 +56933,14 @@ return [
 		'suffix' => 'wpmudev.host',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'indevs.in' => [
+		'suffix' => 'indevs.in',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Indevs : https://indevs.in',
+			'Submitted by Sudheer Bhuvana <security@admin.indevs.in>',
 		],
 	],
 	'dyn-berlin.de' => [
@@ -60540,6 +60632,20 @@ return [
 		'comments' => [
 			'Perspecta : https://perspecta.com/',
 			'Submitted by Kenneth Van Alstyne <kvanalstyne@perspecta.com>',
+		],
+	],
+	'forgeblocks.com' => [
+		'suffix' => 'forgeblocks.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ping Identity : https://www.pingidentity.com',
+			'Submitted by Ping Identity <security@pingidentity.com>',
+		],
+	],
+	'id.forgerock.io' => [
+		'suffix' => 'id.forgerock.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'support.site' => [
