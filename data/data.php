@@ -50006,11 +50006,19 @@ return [
 		'comments' => [
 		],
 	],
+	'antagonist.cloud' => [
+		'suffix' => 'antagonist.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'concludes Amazon',
+			'Antagonist B.V. : https://www.antagonist.nl/',
+			'Submitted by Sander Hoentjen <systeembeheer@antagonist.nl>',
+		],
+	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'concludes Amazon',
 			'Apigee : https://apigee.com/',
 			'Submitted by Apigee Security Team <security@apigee.com>',
 		],
