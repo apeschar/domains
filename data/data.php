@@ -53817,16 +53817,46 @@ return [
 		'comments' => [
 		],
 	],
+	'1cooldns.com' => [
+		'suffix' => '1cooldns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Dynu.com : https://www.dynu.com/',
+			'Submitted by Sue Ye <psl-contact@dynu.com>',
+		],
+	],
+	'bumbleshrimp.com' => [
+		'suffix' => 'bumbleshrimp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ddnsfree.com' => [
 		'suffix' => 'ddnsfree.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Dynu.com : https://www.dynu.com/',
-			'Submitted by Sue Ye <sue@dynu.com>',
 		],
 	],
 	'ddnsgeek.com' => [
 		'suffix' => 'ddnsgeek.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddnsguru.com' => [
+		'suffix' => 'ddnsguru.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuddns.com' => [
+		'suffix' => 'dynuddns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuhosting.com' => [
+		'suffix' => 'dynuhosting.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53861,8 +53891,20 @@ return [
 		'comments' => [
 		],
 	],
+	'pivohosting.com' => [
+		'suffix' => 'pivohosting.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'theworkpc.com' => [
 		'suffix' => 'theworkpc.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wiredbladehosting.com' => [
+		'suffix' => 'wiredbladehosting.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53875,6 +53917,30 @@ return [
 	],
 	'dynu.net' => [
 		'suffix' => 'dynu.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuddns.net' => [
+		'suffix' => 'dynuddns.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mysynology.net' => [
+		'suffix' => 'mysynology.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'opik.net' => [
+		'suffix' => 'opik.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'spryt.net' => [
+		'suffix' => 'spryt.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53899,6 +53965,12 @@ return [
 	],
 	'mywire.org' => [
 		'suffix' => 'mywire.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'roxa.org' => [
+		'suffix' => 'roxa.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
