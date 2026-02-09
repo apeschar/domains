@@ -35572,7 +35572,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38720,14 +38720,6 @@ return [
 		'comments' => [
 			'golf : Binky Moon, LLC',
 			'https://www.iana.org/domains/root/db/golf.html',
-		],
-	],
-	'goo' => [
-		'suffix' => 'goo',
-		'type' => 'ICANN',
-		'comments' => [
-			'goo : NTT DOCOMO, INC.',
-			'https://www.iana.org/domains/root/db/goo.html',
 		],
 	],
 	'goodyear' => [
