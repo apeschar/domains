@@ -54718,6 +54718,14 @@ return [
 			'Submitted by Eric Jiang <eric@fabrica.dev>',
 		],
 	],
+	'fspages.org' => [
+		'suffix' => 'fspages.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'fachschaften.org: https://fachschaften.org/',
+			'Submitted by Felix Schäfer <security@fachschaften.org>',
+		],
+	],
 	'ru.net' => [
 		'suffix' => 'ru.net',
 		'type' => 'PRIVATE',
@@ -59162,6 +59170,12 @@ return [
 	],
 	'apps.fbsbx.com' => [
 		'suffix' => 'apps.fbsbx.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.metaaiusercontent.com' => [
+		'suffix' => '*.metaaiusercontent.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
