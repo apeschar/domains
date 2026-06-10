@@ -60972,6 +60972,12 @@ return [
 			'Submitted by Thomas Shadwell <security@openai.com>',
 		],
 	],
+	'chatgpt.site' => [
+		'suffix' => 'chatgpt.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'opencraft.hosting' => [
 		'suffix' => 'opencraft.hosting',
 		'type' => 'PRIVATE',
