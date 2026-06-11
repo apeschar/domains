@@ -56578,6 +56578,14 @@ return [
 		'comments' => [
 		],
 	],
+	'vibehost.space' => [
+		'suffix' => 'vibehost.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GNTC, Inc. : https://gntc.com/',
+			'Submitted by VibeHost Security <security@vibehost.com>',
+		],
+	],
 	'graphic.design' => [
 		'suffix' => 'graphic.design',
 		'type' => 'PRIVATE',
