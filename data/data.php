@@ -59572,6 +59572,14 @@ return [
 		'comments' => [
 		],
 	],
+	'mkm.fan' => [
+		'suffix' => 'mkm.fan',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MKM : https://mkm.fan/',
+			'Submitted by Kashi Ahmer <admin@mkm.fan>',
+		],
+	],
 	'mocha.app' => [
 		'suffix' => 'mocha.app',
 		'type' => 'PRIVATE',
