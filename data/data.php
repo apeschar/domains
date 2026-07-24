@@ -52029,20 +52029,6 @@ return [
 			'Submitted by Peter Thomassen <peter@desec.io>',
 		],
 	],
-	'deta.app' => [
-		'suffix' => 'deta.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Deta : https://www.deta.sh/',
-			'Submitted by Aavash Shrestha <aavash@deta.sh>',
-		],
-	],
-	'deta.dev' => [
-		'suffix' => 'deta.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'deuxfleurs.eu' => [
 		'suffix' => 'deuxfleurs.eu',
 		'type' => 'PRIVATE',
@@ -61492,6 +61478,14 @@ return [
 		'suffix' => '*.tst.site',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'playcode.site' => [
+		'suffix' => 'playcode.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Playcode : https://playcode.io',
+			'Submitted by Ruslan Ianberdin <security@playcode.io>',
 		],
 	],
 	'pley.games' => [
