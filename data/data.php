@@ -56114,6 +56114,14 @@ return [
 		'comments' => [
 		],
 	],
+	'glideos.app' => [
+		'suffix' => 'glideos.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Glide : https://www.glideapps.com',
+			'Submitted by Glide Engineering <engineering@heyglide.com>',
+		],
+	],
 	'nog.community' => [
 		'suffix' => 'nog.community',
 		'type' => 'PRIVATE',
