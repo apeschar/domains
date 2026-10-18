@@ -56416,18 +56416,12 @@ return [
 			'Submitted by Alex Hanselka <alex@gitlab.com>',
 		],
 	],
-	'gitapp.si' => [
-		'suffix' => 'gitapp.si',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Gitplac.si : https://gitplac.si',
-			'Submitted by Aljaž Starc <me@aljaxus.eu>',
-		],
-	],
 	'gitpage.si' => [
 		'suffix' => 'gitpage.si',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Gitplac.si : https://gitplac.si',
+			'Submitted by Aljaž Starc <me@aljaxus.eu>',
 		],
 	],
 	'glideos.app' => [
