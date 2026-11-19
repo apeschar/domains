@@ -61410,6 +61410,14 @@ return [
 			'Submitted by the Ninjaneer Media team <admin@ninjaneer.au>',
 		],
 	],
+	'nippy.site' => [
+		'suffix' => 'nippy.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Nippy : https://nippy.host/',
+			'Submitted by Nippy Support <support@nippy.host>',
+		],
+	],
 	'mmafan.biz' => [
 		'suffix' => 'mmafan.biz',
 		'type' => 'PRIVATE',
