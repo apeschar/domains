@@ -3562,6 +3562,12 @@ return [
 		'comments' => [
 		],
 	],
+	'agric.bw' => [
+		'suffix' => 'agric.bw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'co.bw' => [
 		'suffix' => 'co.bw',
 		'type' => 'ICANN',
@@ -3574,6 +3580,12 @@ return [
 		'comments' => [
 		],
 	],
+	'me.bw' => [
+		'suffix' => 'me.bw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.bw' => [
 		'suffix' => 'net.bw',
 		'type' => 'ICANN',
@@ -3582,6 +3594,12 @@ return [
 	],
 	'org.bw' => [
 		'suffix' => 'org.bw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'shop.bw' => [
+		'suffix' => 'shop.bw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -55059,6 +55077,14 @@ return [
 			'Submitted by Marcel Daus <cloudops@encoway.de>',
 		],
 	],
+	'entrypages.net' => [
+		'suffix' => 'entrypages.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Entry : https://entry.fyi/',
+			'Submitted by Francis Luz <hello@entry.fyi>',
+		],
+	],
 	'eu.org' => [
 		'suffix' => 'eu.org',
 		'type' => 'PRIVATE',
@@ -57983,6 +58009,20 @@ return [
 			'Submitted by Valentinas Cirba <domains@hostinger.com>',
 		],
 	],
+	'hostney.app' => [
+		'suffix' => 'hostney.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hostney : https://www.hostney.com',
+			'Submitted by Gabor Leszlauer <hostmaster@hostney.com>',
+		],
+	],
+	'hostney.cloud' => [
+		'suffix' => 'hostney.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hostyhosting.io' => [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
@@ -58180,6 +58220,14 @@ return [
 		'comments' => [
 			'info.cx : http://info.cx',
 			'Submitted by June Slater <whois@igloo.to>',
+		],
+	],
+	'infusion-ai.cloud' => [
+		'suffix' => 'infusion-ai.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Infusion : https://infusion.cloud',
+			'Submitted by Ana Pessoa <suporte@infusion.cloud>',
 		],
 	],
 	'ac.leg.br' => [
@@ -60965,6 +61013,14 @@ return [
 			'Submitted by Stephane Bouvard <support@myown.eu>',
 		],
 	],
+	'mythex.app' => [
+		'suffix' => 'mythex.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Mythex : https://mythex.ai',
+			'Submitted by Mythex Support <support@mythex.ai>',
+		],
+	],
 	'hostedpi.com' => [
 		'suffix' => 'hostedpi.com',
 		'type' => 'PRIVATE',
@@ -63167,6 +63223,14 @@ return [
 		'suffix' => 'puter.work',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'pymaia.app' => [
+		'suffix' => 'pymaia.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Pymaia : https://pymaia.com',
+			'Submitted by Martin <info@pymaia.com>',
 		],
 	],
 	'pythonanywhere.com' => [
@@ -66656,6 +66720,14 @@ return [
 		'suffix' => 'windsurf.build',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'wirechunk.site' => [
+		'suffix' => 'wirechunk.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Wirechunk, Inc. : https://wirechunk.com/',
+			'Submitted by Wirechunk Support <support@wirechunk.com>',
 		],
 	],
 	'drive-platform.com' => [
