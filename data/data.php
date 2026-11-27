@@ -51064,6 +51064,14 @@ return [
 			'Submitted by Joshua Weiss <admin.engineering@bluebite.com>',
 		],
 	],
+	'bonto.page' => [
+		'suffix' => 'bonto.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Bonto : https://bonto.dev',
+			'Submitted by Sidequest Ltd <bonto@sidequestvr.com>',
+		],
+	],
 	'boomla.net' => [
 		'suffix' => 'boomla.net',
 		'type' => 'PRIVATE',
@@ -56404,6 +56412,14 @@ return [
 			'Submitted by Aether <furry@org.digital>',
 		],
 	],
+	'fusebase.site' => [
+		'suffix' => 'fusebase.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FuseBase : https://thefusebase.com/',
+			'Submitted by FuseBase <contact@thefusebase.com>',
+		],
+	],
 	'daemon.asia' => [
 		'suffix' => 'daemon.asia',
 		'type' => 'PRIVATE',
@@ -59404,14 +59420,6 @@ return [
 		'comments' => [
 		],
 	],
-	'leapcell.app' => [
-		'suffix' => 'leapcell.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Leapcell : https://leapcell.io/',
-			'Submitted by Leapcell Team <support@leapcell.io>',
-		],
-	],
 	'liara.run' => [
 		'suffix' => 'liara.run',
 		'type' => 'PRIVATE',
@@ -60162,6 +60170,20 @@ return [
 	],
 	'usr.cloud.muni.cz' => [
 		'suffix' => 'usr.cloud.muni.cz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'atoms.world' => [
+		'suffix' => 'atoms.world',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MetaGPT LLC : https://atoms.dev/',
+			'Submitted by Atoms IT <it@fuzhi.ai>',
+		],
+	],
+	'pub.atoms.world' => [
+		'suffix' => 'pub.atoms.world',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62911,6 +62933,14 @@ return [
 			'Submitted by Alec Xiang <security@perplexity.ai>',
 		],
 	],
+	'phronusercontent.com' => [
+		'suffix' => 'phronusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Phron : https://phron.net',
+			'Submitted by Phron Security <security@phron.net>',
+		],
+	],
 	'forgeblocks.com' => [
 		'suffix' => 'forgeblocks.com',
 		'type' => 'PRIVATE',
@@ -63179,6 +63209,26 @@ return [
 	],
 	'byen.site' => [
 		'suffix' => 'byen.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fs.kg' => [
+		'suffix' => 'fs.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PublicFreeSuffix : https://publicfreesuffix.org',
+			'Submitted by Ethan Walker <contact@fs5.net>',
+		],
+	],
+	'bg5.net' => [
+		'suffix' => 'bg5.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a.si' => [
+		'suffix' => 'is-a.si',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -63531,6 +63581,14 @@ return [
 		'suffix' => 'reliantpreview.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'relumesite.ai' => [
+		'suffix' => 'relumesite.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Relume : https://www.relume.ai/',
+			'Submitted by Relume Security Team <security@relume.ai>',
 		],
 	],
 	'onrender.com' => [
@@ -65034,6 +65092,14 @@ return [
 			'Submitted by Ian Streeter <ian@snowplowanalytics.com>',
 		],
 	],
+	'softr.app' => [
+		'suffix' => 'softr.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Softr : https://www.softr.io/',
+			'Submitted by Softr Support <support@softr.io>',
+		],
+	],
 	'mafelo.net' => [
 		'suffix' => 'mafelo.net',
 		'type' => 'PRIVATE',
@@ -65160,6 +65226,14 @@ return [
 		'comments' => [
 			'SpeedPartner GmbH : https://www.speedpartner.de/',
 			'Submitted by Stefan Neufeind <info@speedpartner.de>',
+		],
+	],
+	'spheron.live' => [
+		'suffix' => 'spheron.live',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Spheron : https://www.spheron.ai',
+			'Submitted by Spheron Team <info@spheron.ai>',
 		],
 	],
 	'myspreadshop.at' => [
@@ -65373,6 +65447,14 @@ return [
 		'comments' => [
 		],
 	],
+	'staticrun.app' => [
+		'suffix' => 'staticrun.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Static.run : https://static.run',
+			'Submitted by Static.run <security@static.run>',
+		],
+	],
 	'statichost.page' => [
 		'suffix' => 'statichost.page',
 		'type' => 'PRIVATE',
@@ -65503,6 +65585,14 @@ return [
 		'suffix' => 'ric.jelastic.vps-host.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'strw.app' => [
+		'suffix' => 'strw.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Strawberry Browser Inc. : https://strawberrybrowser.com/',
+			'Submitted by Hannes Fant <security@strawberrybrowser.com>',
 		],
 	],
 	'streak-link.com' => [
@@ -66907,6 +66997,26 @@ return [
 	],
 	'half.host' => [
 		'suffix' => 'half.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.free' => [
+		'suffix' => 'xport.free',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'xPort : https://xport.dev',
+			'Submitted by Sascha Klein <security@xport.dev>',
+		],
+	],
+	'xport.host' => [
+		'suffix' => 'xport.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.sh' => [
+		'suffix' => 'xport.sh',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
